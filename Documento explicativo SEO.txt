@@ -1,0 +1,105 @@
+
+SEO
+
+
+INDEX:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"El Circuito Profesional de padel (CPP) es el campeonato de pádel profesional más importante del mundo, 
+tanto por el nivel organizativo de los torneos como por la participación de los mejores jugadores a nivel 
+internacional"
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: CIRCUITO PROFESIONAL DE PADEL
+
+_____________________________________________________________________________________________________________
+
+TORNEOS:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"Los torneos de Circuito Profesiona de padel comenzaron en el año 2013, posicionándose 
+como el circuito profesional de referencia en sustitución al anterior, el Padel Pro Tour, 
+y es fruto del acuerdo entre el grupo de organizadores de Torneos Profesionales de Pádel, 
+la Asociación de Jugadores Profesionales de Pádel (AJPP) y la Asociación Femenina Española de Pádel (AFEP)"
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel, Torneos Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: TORNEOS
+
+_____________________________________________________________________________________________________________
+
+RANKING:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"En el plano deportivo, algunos de los jugadores más significativos del circuito son Fernando Belasteguín, 
+Juani Mieres, Paquito Navarro, Sanyo Gutiérrez o Pablo Lima en hombres1 y Carolina Navarro, Cecilia Reiter, 
+Mapi Sánchez Alayeto, Majo Sánchez Alayeto, Marta Marrero o Alejandra Salazar en mujeres."
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel, Torneso Padel, Rankig Masculino Padel" y
+"Padel, Circuito Prefesional Padel, Mundial Padel, Torneso Padel, Rankig femenino Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: RANKING MASCULINO Y RANKING FEMENINO
+
+_____________________________________________________________________________________________________________
+
+FOTOS:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"El circuito CPP se gestiona desde SETPOINT EVENTS S.A., filial de S.A. DAMM, que establece su normativa y garantiza y avala los parámetros 
+de calidad exigidos por la misma, así como los premios destinados a los jugadores y jugadoras profesionales de pádel que participan 
+en los torneos del circuito."
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel, Torneso Padel, Fotos Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: FOTOS
+
+_____________________________________________________________________________________________________________
+
+CALENDARIO:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"Cada año se celebran entre 15 y 20 torneos CPP más un máster final en el que se enfrentan las mejores parejas del ranking. 
+Los jugadores participantes recorren diferentes ciudades del mundo para ir sumando puntos y entrar en el Máster final, 
+donde tan sólo acuden las 8 mejores parejas del ranking tras completar la temporada. Se disputan pruebas masculinas y femeninas, 
+aunque el número de campeonatos CPP de mujeres es menor, aproximadamente la mitad."
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel, Torneso Padel, Fotos Padel, Contacto Padel, Calendario Anual Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: CALENDARIO
+
+_____________________________________________________________________________________________________________
+
+CONTACTO:
+
+Descripción;	
+	Mediante la etiqueta meta name decription, se agregó el siguiente párrafo:
+"Sector en donde pueden ubicarnos y mandar sus inquietudes y otros comentarios"
+
+Palabras Claves:
+	Mediante la etiqueta meta name Keywords, 
+se agregó las siguiente palabras claves "Padel, Circuito Prefesional Padel, Mundial Padel, Torneso Padel, Noticias Padel"
+
+Encabezado:		
+	Se utilizó h1 como encabezado, utilizando el siguiente texto: CONTACTO
+
